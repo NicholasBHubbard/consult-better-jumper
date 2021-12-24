@@ -1,4 +1,4 @@
-;;; consult-better-jumper.el -*- lexical-binding: t; -*-
+;;; consult-better-jumper.el --- browse better-jumper jump points with consult -*- lexical-binding: t; -*-
 
 ;; Copyright (C) 2021  Nicholas Hubbard
 
