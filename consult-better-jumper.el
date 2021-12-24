@@ -1,4 +1,25 @@
-;;; consult-better-jumper --- Consult integration for better-jumper
+;;; consult-better-jumper.el -*- lexical-binding: t; -*-
+
+;; Copyright (C) 2021  Nicholas Hubbard
+
+;; Author: Nicholas Hubbard
+;; Maintainer: Nicholas Hubbard
+;; Created: December 24, 2021
+;; Version: 1.0.0
+;; Homepage: https://github.com/NicholasBHubbard/consult-better-jumper
+;; Package-Requires: ((emacs "26.1") (consult "0.13") (better-jumper "1.0.0")) 
+;; Keywords: consult, better-jumper
+;;
+;; This file is not part of GNU Emacs.
+
+;;; License: GNU General Public License v3.0
+
+;;; Commentary:
+;;
+;; Consult-better-jumper integrates better-jumper into consult so that jump points
+;; can be browsed using the consult framework.
+;;
+;; To use consult-better-jumper try: M-x consult-better-jumper
 
 ;;; Code:
 
